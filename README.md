@@ -59,4 +59,4 @@ I also use **AI-assisted development** for architecture exploration, requirement
 
 ## Beyond Security
 
-Graphic design · AI experimentation · Casual writing · Art
+Graphic design · AI experimentation · Casual writing · Art · Photography
