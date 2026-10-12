@@ -8,7 +8,7 @@ Final-year **BSc Information Security student** with a background in Information
 
 ### V-TRAP — Vulnerability Triage and Remediation Advisory Planner
 
-My undergraduate final-year project, developed with [Elorm Kwasi Blabu](https://github.com/B2580777777).
+My undergraduate final-year project, developed with [Elorm Blabu](https://github.com/B2580777777).
 
 A post-scan decision-support system for **context-aware vulnerability prioritisation and remediation planning**.
 
